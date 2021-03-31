@@ -1,0 +1,18 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/somScore.ogg-5d5030cdf38ee01956f28f7788dfd36c.oggstr"
+
+[deps]
+
+source_file="res://Assets/Sons/somScore.ogg"
+source_md5="75236adee21acfe150f87d9c4d7cdecf"
+
+dest_files=[ "res://.import/somScore.ogg-5d5030cdf38ee01956f28f7788dfd36c.oggstr" ]
+dest_md5="f134f63af9de067763958e5a66a63e88"
+
+[params]
+
+loop=false
+loop_offset=0
